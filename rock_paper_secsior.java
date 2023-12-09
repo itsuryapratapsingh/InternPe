@@ -1,3 +1,5 @@
+//Make a Rock Paper Scissor game With the help of JAVA 
+
 import java.util.Random;
 import java.util.Scanner;
 
